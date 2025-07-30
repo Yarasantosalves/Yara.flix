@@ -1,4 +1,11 @@
 body {
     color: green;
     background: pink;
+margin: 0px;
+
+}
+
+
+header {
+border : hotpink 6px; 
 }
