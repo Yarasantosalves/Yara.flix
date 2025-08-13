@@ -2,10 +2,22 @@ body {
     color: green;
     background: pink;
 margin: 0px;
-
+font-family: "chakra Petch", sans-serif;
 }
 
 
 header {
 border : hotpink 6px; 
+}
+
+section {
+background: rosybrown(184, 156, 213);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;
 }
